@@ -132,11 +132,36 @@ li a:hover{
     
 }
 @media screen and (max-width:480px) {
+   
     .head{
         background-color: indigo;
-        width:100%;
+        width:525px;
         overflow: hidden;
 
     }
-    
+    .head img{
+        margin-top:18px;
+        margin-right:10px;
+    }
+    nav{
+        width:525px;
+    }
+    .skills{
+        margin-top:20px;
+        margin-left: 20px;
+        padding:0px;
+        
+    }
+    .skls{
+        float:left;
+        margin-right:8px;
+        padding: 5px;
+    }
+    .contact{
+        width:480px;
+        
+    }
+    .copyright{
+        margin-left: 125px;
+    }
 }
