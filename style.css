@@ -193,9 +193,16 @@ li a:hover{
     }
     .contact{
         width:480px;
+        height:300px;
         
     }
     .copyright{
-        margin-left: 125px;
+        margin-left: 130px;
+        margin-bottom:10px;
     }
+    .contact h2{
+        margin-left: 130px;
+        
+    }
+    
 }
