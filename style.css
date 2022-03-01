@@ -170,7 +170,7 @@ li a:hover{
    
     .head{
         background-color: indigo;
-        width:525px;
+        width: auto;
         overflow: hidden;
 
     }
@@ -179,7 +179,7 @@ li a:hover{
         margin-right:10px;
     }
     nav{
-        width:525px;
+        width:auto;
     }
     .skills{
         margin-top:20px;
@@ -193,7 +193,7 @@ li a:hover{
         padding: 5px;
     }
     .contact{
-        width:480px;
+        width:auto;
         height:280px;
         
     }
