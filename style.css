@@ -131,6 +131,40 @@ li a:hover{
     margin-left: 500px;
     
 }
+.cert{
+    color: black;
+}
+.cert:hover{
+    color:#ff3700;
+}
+.res{
+    color:white;
+    
+    padding:5px;
+    text-decoration: none;
+    border:3px solid #ff3700;
+    border-radius: 8px;
+    
+}
+.res:hover{
+    
+    background-color: #ff3700;
+}
+.insta a:hover{
+    color:#ff3700;
+}
+.Linkdin a:hover{
+    color:#ff3700;
+}
+.contact h2{
+    border:3px solid #ff3700;
+    width:200px;
+    justify-content: center;
+    margin-left: 500px;
+    border-radius: 6px;
+    background-color: #ff3700;
+}
+
 @media screen and (max-width:480px) {
    
     .head{
